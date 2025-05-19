@@ -1,5 +1,6 @@
 ***Evidencia 1***
 
+
 **Instrucciones para ejecutar el proyecto**
 1) Crear un proyecto con vite: npm create vite@latest y npm install
 2) npm run dev para ejecutar el proyecto 
@@ -14,6 +15,7 @@
 
 ***Evidencia 2***
 
+
 **Estadisticas que se agregaron**
 
 -MaxProduct: devuelve el producto con mayor precio de los productos filtrados.
@@ -23,6 +25,7 @@
 -Longitud: devuelve los productos que tienen una longitud de mas de 10 caracteres. 
 
 **Comeponentes**
+
 **`App.jsx`**: Componente principal. Contiene el estado, la búsqueda, el llamado a la API, y la lógica de filtrado y estadísticas.
 
 - **`Stats.jsx`**: Componente que recibe los datos de estadísticas y los presenta.
