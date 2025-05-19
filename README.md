@@ -33,7 +33,7 @@
 - **`ProductList.jsx`**: Componente que recibe la lista de productos por props y los muestra en pantalla.
 
 **RESULTADO EN FUNCIONAMIENTO**
-![Captura de pantalla](./Captura1.png)
+Las imagenes se encuentran en la carpeta imagnes funcionamiento resultado 
 
 
 
