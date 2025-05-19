@@ -18,16 +18,16 @@
 
 **Estadisticas que se agregaron**
 
--MaxProduct: devuelve el producto con mayor precio de los productos filtrados.
+- **MaxProduct**: devuelve el producto con mayor precio de los productos filtrados.
 
--MinProduct: devuelve el producto con menor de los productos filtrados.
+- **MinProduct**: devuelve el producto con menor de los productos filtrados.
 
--Longitud: devuelve los productos que tienen una longitud de mas de 10 caracteres. 
+- **Longitud**: devuelve los productos que tienen una longitud de mas de 10 caracteres. 
 
 **Comeponentes**
 
-**`App.jsx`**: Componente principal. Contiene el estado, la búsqueda, el llamado a la API, y la lógica de filtrado y estadísticas.
+- **`App.jsx`**: Componente principal. Contiene el estado, la búsqueda, el llamado a la API, y la lógica de filtrado y estadísticas.
 
 - **`Stats.jsx`**: Componente que recibe los datos de estadísticas y los presenta.
 
-**`ProductList.jsx`**: Componente que recibe la lista de productos por props y los muestra en pantalla.
+- **`ProductList.jsx`**: Componente que recibe la lista de productos por props y los muestra en pantalla.
