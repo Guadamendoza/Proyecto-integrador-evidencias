@@ -1,4 +1,5 @@
 ***Evidencia 1***
+
 **Instrucciones para ejecutar el proyecto**
 1) Crear un proyecto con vite: npm create vite@latest y npm install
 2) npm run dev para ejecutar el proyecto 
@@ -12,6 +13,7 @@
 
 
 ***Evidencia 2***
+
 **Estadisticas que se agregaron**
 
 -MaxProduct: devuelve el producto con mayor precio de los productos filtrados.
