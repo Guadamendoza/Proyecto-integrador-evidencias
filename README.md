@@ -33,5 +33,7 @@
 - **`ProductList.jsx`**: Componente que recibe la lista de productos por props y los muestra en pantalla.
 
 **RESULTADO EN FUNCIONAMIENTO**
-![Captura de pantalla](./capturadepantalla(153).png)
+![Captura de pantalla](./Captura1.png)
+
+
 
